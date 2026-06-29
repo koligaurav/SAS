@@ -72,16 +72,16 @@ Then open `.env` and fill in every value:
 
 ```env
 PORT=5000
-MONGODB_URI=mongodb+srv://koligauravkoli10_db_user:XV9FUlV1pGbP38se@cluster0.9uchrtw.mongodb.net/?appName=Cluster0
-JWT_SECRET=33dd3bec31fe9279790688d6ae1d77cd2984b53ed3188acaab0b6c59ed846fb32ecd9778aa6ffaec620df2989a740535f0ea4c6403a28012ce14554c26c67369
+MONGODB_URI=
+JWT_SECRET=
 JWT_EXPIRES_IN=7d
 
-RAZORPAY_KEY_ID=rzp_test_T6wd3XJj5TCOcv
-RAZORPAY_KEY_SECRET=711bS4CrHY2rCMbuhEQpQ9Sp
+RAZORPAY_KEY_ID=
+RAZORPAY_KEY_SECRET=
 CLIENT_URL=http://localhost:5173
 
-ADMIN_EMAIL=koligauravkoli10@gmail.com
-ADMIN_PASSWORD=Gaurav@10
+ADMIN_EMAIL=
+ADMIN_PASSWORD=
 ```
 
 | Variable | Where to get it |
